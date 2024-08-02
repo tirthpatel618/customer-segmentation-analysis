@@ -19,8 +19,7 @@ Mall Customer Data: The primary dataset used for this analysis is the "Mall_Cust
 Univariate Analysis: 
 Examining histograms and kernel density estimation (KDE) plots for each metric (age, annual income, and spending score) enabled a comprehensive exploration of the dataset's characteristics. These visualizations facilitated the assessment of frequency/central tendancy, revealing that the most frequent shopper is between 30-40 years old, has an annual income between $50k-$75k, and a spending score between 40-60. The visualizations also provided insight on the shape of the distribution, showing the data was approximately normally distributed.
 
-<img width="436" alt="image" src="https://github.com/hannah0wang/customer-segmentation-analysis/assets/43276816/c8c381e2-eb70-4749-ae84-b2bc22a9b434">
-
+<img width="436" alt="image" src="https://github.com/tirthpatel618/customer-segmentation-analysis/blob/main/assets/univariate.png">
 Figure 1. Example distplot for annual income.
 
 
