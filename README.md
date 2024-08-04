@@ -1,5 +1,4 @@
-# customer-segmentation-analysis
-Small statistical customer segmentation analysis
+
 # Customer Segmentation Analysis
 
 ### Project Overview
